@@ -28,8 +28,6 @@
 - [Add Payment Gateway to Firebase App](https://medium.com/@lambrohan/add-payment-gateway-to-firebase-app-fd87cb257b3?source=rss-3eb078e06993------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-<br/>
 
 ### Get in touch
 
