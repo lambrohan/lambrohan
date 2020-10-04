@@ -2,9 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambrohan&hide=css&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -20,13 +19,14 @@
 <br />
 
 ### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Strapi with Firebase Auth — Owner’s Policy](https://medium.com/@lambrohan/strapi-with-firebase-auth-owners-policy-f346a0457ffb?source=rss-3eb078e06993------2)
 - [Integrating Firebase Auth into Strapi.](https://medium.com/@lambrohan/integrating-firebase-auth-into-strapi-9ed106ce8dee?source=rss-3eb078e06993------2)
 - [Server Side Render Nuxt App Using Firebase](https://medium.com/@lambrohan/server-side-render-nuxt-app-using-firebase-da547f59105d?source=rss-3eb078e06993------2)
 - [Add Payment Gateway to Firebase App](https://medium.com/@lambrohan/add-payment-gateway-to-firebase-app-fd87cb257b3?source=rss-3eb078e06993------2)
 <!-- BLOG-POST-LIST:END -->
-
 
 ### Get in touch
 
@@ -34,6 +34,5 @@
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/the_nacromancer
 [twitter]: https://twitter.com/lambrohan
